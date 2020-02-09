@@ -1,5 +1,5 @@
 'use strict';
-const EventEmitter = require('events');
-const events = new EventEmitter();
+const EE = require('events');
+const events = new EE();
 
 module.exports = events

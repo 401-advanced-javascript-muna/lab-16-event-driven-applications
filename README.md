@@ -8,15 +8,15 @@
 
 ### Links and Resources
 
-- [submission PR]()
-- [ci/cd]() (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-muna/lab-16-event-driven-applications/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-muna/lab-16-event-driven-applications/actions) (GitHub Actions)
 
 
 
 #### How to initialize/run your application (where applicable)
 
 
-
+- node edit-file.js
 
 #### Tests
 
